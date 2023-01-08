@@ -1,0 +1,101 @@
+.Header {
+  font-size: 72px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.Title1 {
+  font-size: 24px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.Title2 {
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.BodyHilglight {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.Body {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.Underline {
+  -webkit-text-decoration: underline solid 4px #d2483d;
+          text-decoration: underline solid 4px #d2483d;
+}
+
+.HeaderMobil {
+  font-size: 40px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.Title1Mobil {
+  font-size: 20px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.Title2Mobil {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.BodyHilglightMobil {
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.BodyMobil {
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.UnderlineMobil {
+  -webkit-text-decoration: underline solid 4px #d2483d;
+          text-decoration: underline solid 4px #d2483d;
+}
+
+.Red {
+  color: #d2483d;
+}
+
+.Grey {
+  color: #f3f3f3;
+}
+
+.White {
+  color: #ffffff;
+}
+
+.Black {
+  color: #000000;
+}
+
+header nav a {
+  text-decoration: none;
+  color: black;
+  padding: 1rem;
+}
+header nav a:hover {
+  color: black;
+  -webkit-text-decoration: underline 3px;
+          text-decoration: underline 3px;
+  -webkit-text-decoration-color: #d2483d;
+          text-decoration-color: #d2483d;
+}
+
+button {
+  background-color: black;
+  border: black solid 1px;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+  border: black solid 1px;
+}

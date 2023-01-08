@@ -1,0 +1,73 @@
+$Bebas: "Bebas Neue", cursive;
+$Mont: "Montserrat", sans-serif;
+
+$Red: #d2483d;
+$Grey: #f3f3f3;
+$Black: #000000;
+$White: #ffffff;
+
+// TYPO
+//  Desktop
+.Header {
+  font-size: 72px;
+  font-family: $Bebas;
+}
+.Title1 {
+  font-size: 24px;
+  font-family: $Bebas;
+}
+.Title2 {
+  font-size: 24px;
+  font-family: $Mont;
+}
+.BodyHilglight {
+  font-size: 20px;
+  font-family: $Mont;
+  font-weight: 600;
+}
+.Body {
+  font-size: 20px;
+  font-family: $Mont;
+}
+.Underline {
+  text-decoration: underline solid 4px $Red;
+}
+// Mobil
+.HeaderMobil {
+  font-size: 40px;
+  font-family: $Bebas;
+}
+.Title1Mobil {
+  font-size: 20px;
+  font-family: $Bebas;
+}
+.Title2Mobil {
+  font-size: 20px;
+  font-family: $Mont;
+}
+.BodyHilglightMobil {
+  font-size: 16px;
+  font-family: $Mont;
+  font-weight: 600;
+}
+.BodyMobil {
+  font-size: 16px;
+  font-family: $Mont;
+}
+.UnderlineMobil {
+  text-decoration: underline solid 4px $Red;
+}
+
+// COLORS
+.Red {
+  color: $Red;
+}
+.Grey {
+  color: $Grey;
+}
+.White {
+  color: $White;
+}
+.Black {
+  color: $Black;
+}

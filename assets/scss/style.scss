@@ -1,0 +1,26 @@
+@import "variables";
+
+header {
+  nav {
+    a {
+      text-decoration: none;
+      color: black;
+      padding: 1rem;
+    }
+    a:hover {
+      color: black;
+      text-decoration: underline 3px;
+      text-decoration-color: $Red;
+    }
+  }
+}
+
+button {
+  background-color: black;
+  border: black solid 1px;
+}
+button:hover {
+  background-color: white;
+  color: black;
+  border: black solid 1px;
+}
