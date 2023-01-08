@@ -17,6 +17,9 @@ Par la suite, j'ai appris à utiliser Bootstrap pour le réaliser, c'est le prem
   - Typo
   - taille des certaine boite
 - Menu mobil
+- Pages :
+  - Menu
+  - Contact
 
 Line vers Figma : [Design](https://www.figma.com/file/0hjRBBR28q2WHK1jaF8QSe/Yummy-Nouilles---Perso?node-id=1%3A2&t=1hmqPhDuWN46yCRW-0 "design")  
-Lien vers le site : [Yummy Nouilles](https://moustito.github.io/sunnyside-agency/ "Yummy Nouilles")
+Lien vers le site : [Yummy Nouilles](https://moustito.github.io/Bootstrap/ "Yummy Nouilles")
